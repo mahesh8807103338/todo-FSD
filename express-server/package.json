@@ -4,7 +4,7 @@
   "description": "express server for mern todo app",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app_hooked.js"
+    "start": "node app_hooked.js"
   },
   "repository": {
     "type": "git",
