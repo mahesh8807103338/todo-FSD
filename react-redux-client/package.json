@@ -21,7 +21,7 @@
     "eject": "react-scripts eject"
   },
   
-  "proxy": "https://todoaa.onrender.com/",
+  "proxy": "https://todoaa.onrender.com",
   "devDependencies": {
     "bootstrap": "^3.3.7"
   }
